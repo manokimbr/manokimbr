@@ -1,16 +1,41 @@
-### Hi there 👋
+```zsh
+> yarn add @types/manokimbr
+```
 
-<!--
-**manokimbr/manokimbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <a href="https://storyset.com/technology">Technology illustrations by Storyset</a> -->
 
-Here are some ideas to get you started:
+<!-- <a href="https://app.daily.dev/Erebor"><img src="https://api.daily.dev/devcards/eb92cdb309e447f2a5f2c0e0af144773.png?r=p41" width="300" alt="Kim Souza's Dev Card" /></a> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--  <a href="https://app.daily.dev/Erebor"><img src="https://api.daily.dev/devcards/eb92cdb309e447f2a5f2c0e0af144773.png?r=yed" width="300" alt="Kim Souza's Dev Card" align="left" height="auto" width="300px" style="margin-right: 10px;"/></a> -->
+
+ <img src="https://www.hugp.com/research/assets/img/gif/pc.gif" align="left" height="auto" width="300px" style="margin-right: 10px" />
+
+```typescript
+import { Kim } from 'manokimbr/developer'
+
+const Skills: Kim = {
+   UiUx: Figma, GIMP, Krita
+
+   FrontEnd: HTML, SCSS, TypeScript, Javascript, React, ReactNative
+
+   BackEnd: Node.js, Elixir, Insomnia, 
+}
+
+const About: Kim = {
+   Pronouns: He/Him,
+
+   Location: Curitiba - PR,
+   
+
+   Work:{
+      freelancer
+   },
+
+   Study:{
+      Bachelor of engineering: "UTFPR", 
+      Ignite by Rocketseat: "ongoing",
+      JS_Expert by Erick Wendel: "ongoing",
+      },
+}
+```
+
