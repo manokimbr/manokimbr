@@ -14,11 +14,11 @@
 import { Kim } from 'manokimbr/developer'
 
 const Skills: Kim = {
-   UiUx: Figma, GIMP, Krita
+   UiUx: Figma, GIMP, Krita;
 
-   FrontEnd: HTML, SCSS, TypeScript, Javascript, React, ReactNative
+   FrontEnd: HTML, SCSS, TypeScript, Javascript, React, ReactNative;
 
-   BackEnd: Node.js, Elixir, Insomnia, 
+   BackEnd: Node.js, Elixir, Insomnia;
 }
 
 const About: Kim = {
