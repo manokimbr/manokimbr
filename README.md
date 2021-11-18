@@ -32,9 +32,9 @@ const About: Kim = {
    },
 
    Study:{
-      Bachelor of engineering: "UTFPR", 
+      Bachelor of Engineering: "UTFPR", 
       Ignite by Rocketseat: "ongoing",
-      JS_Expert by Erick Wendel: "ongoing",
+      JS_Expert by ErickWendel: "ongoing",
       },
 }
 ```
