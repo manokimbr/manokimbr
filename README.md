@@ -28,13 +28,15 @@ const About: Kim = {
    
 
    Work:{
-      freelancer
+      Full stack jr developper 1
    },
 
    Study:{
       Bachelor of Engineering: "UTFPR", 
       Ignite by Rocketseat: "ongoing",
       JS_Expert by ErickWendel: "ongoing",
+      GraphAcademy by Neo4j: "ongoing"
+      
       },
 }
 ```
