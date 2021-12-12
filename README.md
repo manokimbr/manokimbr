@@ -28,7 +28,7 @@ const About: Kim = {
    
 
    Work:{
-      Full stack jr developper 1
+      Remote
    },
 
    Study:{
