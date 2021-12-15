@@ -35,7 +35,7 @@ const About: Kim = {
       Bachelor of Engineering: "UTFPR", 
       Ignite by Rocketseat: "ongoing",
       JS_Expert by ErickWendel: "ongoing",
-      GraphAcademy by Neo4j: "ongoing",
+      Neo4j by GraphAcademy: "ongoing",
       
       },
 }
