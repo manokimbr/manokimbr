@@ -18,7 +18,7 @@ const Skills: Kim = {
 
    FrontEnd: "HTML, SCSS, TypeScript, Javascript, React, ReactNative"
 
-   BackEnd: "Node.js, Elixir, Insomnia"
+   BackEnd: "Neo 4j, Node.js, Elixir, Insomnia"
 }
 
 const About: Kim = {
