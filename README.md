@@ -16,7 +16,7 @@ import { Kim } from 'manokimbr/developer'
 const Skills: Kim = {
    UiUx: "Figma, GIMP, Krita"
 
-   FrontEnd: "HTML, SCSS, TypeScript, Javascript, React, ReactNative"
+   FrontEnd: "HTML, SCSS, Vue, Javascript, React, ReactNative, TypeScript"
 
    BackEnd: "Neo 4j, Node.js, Elixir, Insomnia"
 }
