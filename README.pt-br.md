@@ -57,7 +57,7 @@ Integrando tecnologia e vida orgânica 🍃
 > 💡 Política de "0 vulnerabilidades conhecidas".
 
 - 🧼 `npm audit` limpo a cada commit
-- ⚠️ Sem pacotes obscuros, sem inchos, sem abandonware
+- ⚠️ Sem pacotes obscuros, sem tralha, sem abandonware (bibliotecas mortas)
 - 📦 Dependências mínimas — confiança é conquistada
 - 🔒 Código legível por humanos e por IAs
 
