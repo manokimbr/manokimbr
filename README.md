@@ -1,5 +1,11 @@
 # 🐺 Kim Souza | @manokimbr
 
+<p align="right">
+  🌐 Read this in:
+  <a href="./README.pt-br.md">🇧🇷 Português</a> |
+  <a href="./README.fr.md">🇫🇷 Français</a>
+</p>
+
 > Fullstack engineer · Lone Wolf Hacker · Tech naturalist  
 > Building self-aware systems with Node.js v22, Vue 3, and a spark of madness 🧠⚡
 
