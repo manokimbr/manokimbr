@@ -1,24 +1,25 @@
-# 👨‍🚀 Kim Souza | @manokimbr
+# 🐺 Kim Souza | @manokimbr
 
-> Fullstack engineer · Code minimalist · Tech explorer  
-> Creating self-aware systems with Node.js v22, Vue 3, and a spark of madness 🧠⚡
+> Fullstack engineer · Lone Wolf Hacker · Tech naturalist  
+> Building self-aware systems with Node.js v22, Vue 3, and a spark of madness 🧠⚡
 
 [![GitHub](https://img.shields.io/badge/github-%40manokimbr-181717?logo=github)](https://github.com/manokimbr)
 [![X](https://img.shields.io/badge/x-%40manokimbr-black?logo=x)](https://twitter.com/manokimbr)
 
 ---
 
-## 🧬 Core Tech Stack
+## 🧬 Core Stack — What I Use & Love
 
-| Domain     | Tools & Frameworks                          |
-|------------|---------------------------------------------|
-| Backend    | Node.js v22 (Jod) · Express · .NET Core · C# |
-| Frontend   | Vue 3 + Vuetify · React.js · Vite · HTML/CSS |
-| Database   | Neo4j · PostgreSQL · MongoDB · SQLite       |
-| 3D / WebGL | Three.js · GLSL                             |
-| DevOps     | Docker · GitHub Actions · Render · CI/CD    |
-| AI / LLM   | OpenAI API · LangChain · Python             |
-| Others     | REST · GraphQL · JWT · OAuth · WebSockets   |
+| Layer       | Tech                                      |
+|-------------|-------------------------------------------|
+| Backend     | Node.js v22 (Jod Mode)                    |
+| Frontend    | Vue 3 + Vuetify                           |
+| Database    | Neo4j (graph native)                      |
+| 3D Engine   | Three.js                                  |
+| Web3        | Solana Web3 SDK                           |
+| Runtime DNA | ESM · **Minimal-dependency philosophy** 🧘 |
+
+> I build systems that are lean, modern and capable of self-reflection.
 
 ---
 
@@ -30,15 +31,57 @@
 
 ---
 
+## 🌿 Tech x Nature: IoT Experiments
+
+Blending machines and the Earth, one leaf at a time 🍃
+
+- ⚙️ ESP32 DevKit V1 projects (WiFi + GPIO + sensors)
+- 🌱 Smart garden: monitoring moisture, temperature & air with code
+- 🧘‍♂️ Organic design meets algorithmic logic
+- Future: energy-aware systems, natural automation
+
+> Nature doesn’t rush, yet everything gets done. So does my code.
+
+---
+
 ## 🤖 LLM + Code Collaboration
 
 LLMs aren’t just tools — they’re teammates.
 
-- 🔍 I write code that explains itself to AI
-- 🧠 Projects generate their own structure memory (`brain.js`)
-- 📂 Everything is LLM-readable and evolvable
+- 🔍 Projects scan and document themselves (`brain.js`)
+- 📂 JSON memory maps for routes, components, exports
+- 🧠 Designed for integration with GPT, Claude & friends
 
 > If the code knows itself, it can grow by itself. 🪄
+
+---
+
+## 🔐 Security-First Mindset
+
+> 💡 I build software with a “0 known vulnerabilities” policy.
+
+- 🧼 Clean `npm audit` at every commit
+- ⚠️ No shady packages, no bloat, no abandonware
+- 📦 Minimal-dependency philosophy — trust is earned, not assumed
+- 🔒 Designed to be AI-parseable and **human-auditable**
+
+[![Security Badge](https://img.shields.io/badge/security-zero--known--vulnerabilities-brightgreen?logo=vercel)](#)
+
+> Stable. Lean. Safe. By design.
+
+---
+
+## 🧪 Secondary Stack — I Can Build With:
+
+| Tech Area        | Frameworks & Tools                              |
+|------------------|--------------------------------------------------|
+| Frontend         | React · Angular · Svelte · TailwindCSS          |
+| Backend          | Express · Fastify · NestJS · Laravel · .NET C#  |
+| Data & Infra     | PostgreSQL · MongoDB · SQLite · Firebase        |
+| DevOps & Tools   | Docker · CI/CD · GitHub Actions · Nginx         |
+| Languages        | Python · C# · TypeScript · Bash                 |
+
+> I adapt fast — because not every client picks the best stack 😅
 
 ---
 
@@ -48,32 +91,31 @@ Each tech deserves its own little beast. Here's what I'm cooking:
 
 | Lab         | Stack                         | Goal                            |
 |-------------|-------------------------------|---------------------------------|
-| `node-jod`  | Node.js v22 (native)          | No-dep backend + self-awareness |
+| `node-jod`  | Node.js v22 (native)          | Minimal backend + self-awareness |
 | `vue3-jod`  | Vue 3 + Vuetify               | Clean, dynamic UI architecture  |
 | `react-lab` | React + Vite                  | Component testing + state labs  |
 | `dotnet-lab`| C# + .NET API                 | Enterprise-ready backend        |
 | `neo4j-lab` | Neo4j                         | Graph logic & relationships     |
 | `ai-buddy`  | Python + OpenAI               | Local LLM tools & API helpers   |
-
-> 💡 All labs are public, modular, and serve as learning + testing arenas
+| `iot-garden`| ESP32 + MQTT + sensors        | IoT system for nature interfaces|
 
 ---
 
 ## 🌍 Languages
 
-- 🇧🇷 Português (nativo)
-- 🇺🇸 English (fluent)
+- 🇧🇷 Português (nativo)  
+- 🇺🇸 English (fluent)  
 - 🇫🇷 Français (intermédiaire)
 
 ---
 
 ## ☁️ Next Level
 
-- AI-enhanced memory
-- Web3 Integrations
-- Real-time 3D interfaces
-- Open graph dev tools
-- Cross-stack playgrounds
+- AI-enhanced memory  
+- Web3-native UX  
+- Nature-aware machines  
+- 3D decentralized interfaces  
+- Code that talks to you about itself
 
 ---
 
